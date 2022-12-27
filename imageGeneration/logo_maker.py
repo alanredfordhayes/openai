@@ -24,4 +24,4 @@ image_url = open_ai_image_create(
     size="1024x1024"
 )
 
-print(image_url)
+print(image_url) 
